@@ -1,14 +1,16 @@
 Este repositório contém 30 exercícios básicos de programação resolvidos em Dart, divididos em 5 partes (5 exercícios cada). O objetivo é praticar lógica de programação, funções, estruturas de controle, manipulação de listas e conceitos fundamentais que servem de base para desenvolvimento em Dart e Flutter.
 
+## 📂 Estrutura do Repositório  
 exercises-dart/
 │
-├── part1/   # Exercícios 1 a 5
-├── part2/   # Exercícios 6 a 10
-├── part3/   # Exercícios 11 a 15
-├── part4/   # Exercícios 16 a 20
-├── part5/   # Exercícios 21 a 25
-├── part6/   # Exercícios 26 a 30
+├── part1/   → Exercícios 1 a 5
+├── part2/   → Exercícios 6 a 10
+├── part3/   → Exercícios 11 a 15
+├── part4/   → Exercícios 16 a 20
+├── part5/   → Exercícios 21 a 25
 └── README.md
+
+
 
 Cada pasta contém um arquivo .dart com os exercícios resolvidos.
 
